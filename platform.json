@@ -79,7 +79,7 @@
       "type": "framework",
       "optional": true,
       "owner": "platformio",
-      "version": "https://github.com/Community-PIO-CH32V/framework-wch-freertos.git"
+      "version": "https://github.com/andreock/framework-wch-freertos.git"
     },
     "framework-wch-harmony-liteos": {
       "type": "framework",
